@@ -1,0 +1,5 @@
+com\guides\shared\session\ServerStarter.class
+com\guides\shared\session\filter\ConsumerHttpServletRequest.class
+com\guides\shared\session\filter\SessionFilter.class
+com\guides\shared\session\controller\UserController.class
+com\guides\shared\session\filter\ConsumerHttpSession.class
