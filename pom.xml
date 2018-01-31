@@ -29,4 +29,16 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>guides-hashMap</module>
+		<module>guides-java8</module>
+		<module>guides-mq</module>
+		<module>guides-mq-simple-demo</module>
+		<module>guides-roketmq-simple-demo</module>
+		<module>guides-shared-db</module>
+		<module>guides-shared-session</module>
+		<module>guides-spring-transaction</module>
+		<module>guides-thread</module>
+	</modules>
+
 </project>
